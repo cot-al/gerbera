@@ -161,6 +161,10 @@ Odys
 
 -  i-net MusicBox
 
+Onkyo
+~~~~
+-  TX-NR575E
+
 Philips
 ~~~~~~~
 
